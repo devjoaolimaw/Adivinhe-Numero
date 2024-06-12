@@ -1,6 +1,5 @@
 # Adivinhe-Numero
 
-# Jogo de Adivinhação
 
 Este é um programa simples em C# que implementa um jogo de adivinhação. O programa gera um número aleatório entre 1 e 100 e solicita ao usuário que tente adivinhar esse número. O usuário recebe dicas sobre se sua tentativa foi muito alta, muito baixa ou correta.
 
