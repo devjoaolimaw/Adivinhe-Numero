@@ -1,0 +1,14 @@
+c:\dev\AdivinheNumero\bin\Debug\net7.0\AdivinheNumero.exe
+C:\dev\AdivinheNumero\bin\Debug\net7.0\AdivinheNumero.deps.json
+C:\dev\AdivinheNumero\bin\Debug\net7.0\AdivinheNumero.runtimeconfig.json
+c:\dev\AdivinheNumero\bin\Debug\net7.0\AdivinheNumero.dll
+c:\dev\AdivinheNumero\bin\Debug\net7.0\AdivinheNumero.pdb
+c:\dev\AdivinheNumero\obj\Debug\net7.0\AdivinheNumero.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\AdivinheNumero\obj\Debug\net7.0\AdivinheNumero.AssemblyInfoInputs.cache
+c:\dev\AdivinheNumero\obj\Debug\net7.0\AdivinheNumero.AssemblyInfo.cs
+c:\dev\AdivinheNumero\obj\Debug\net7.0\AdivinheNumero.csproj.CoreCompileInputs.cache
+c:\dev\AdivinheNumero\obj\Debug\net7.0\AdivinheNumero.dll
+c:\dev\AdivinheNumero\obj\Debug\net7.0\refint\AdivinheNumero.dll
+c:\dev\AdivinheNumero\obj\Debug\net7.0\AdivinheNumero.pdb
+C:\dev\AdivinheNumero\obj\Debug\net7.0\AdivinheNumero.genruntimeconfig.cache
+C:\dev\AdivinheNumero\obj\Debug\net7.0\ref\AdivinheNumero.dll
